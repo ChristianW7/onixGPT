@@ -8,7 +8,6 @@ Thank you for your interest in contributing to OnixGPT, Troyonix's open source f
 - Submit a pull request with a clear description of your changes.
 
 ## Code Style
-- Follow PEP8 for Python code.
 - Write clear, concise commit messages.
 
 ## Reporting Issues
